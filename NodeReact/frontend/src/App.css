@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    flex-direction: row;
+    max-width: 500px;
+    min-width: 300px;
+    width: 40%;
+    height: 200px;
+    justify-content: space-evenly;
+    align-items: center;
+}
